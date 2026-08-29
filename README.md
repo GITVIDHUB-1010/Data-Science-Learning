@@ -9,6 +9,7 @@ This repository contains my **practice notebooks, notes, and projects** as I lea
 * [x] NumPy
 * [x] Pandas
 * [x] Data Visualization
+* [ ] EDA(Exploratory Data Analysis)
 * [ ] SQL
 * [ ] Machine Learning
 * [ ] Projects
